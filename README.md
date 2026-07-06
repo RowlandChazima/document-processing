@@ -1,10 +1,10 @@
-# Eiffel Tower Document Processing with LangChain & Groq
+# Document Processing with LangChain & Groq
 
 ## Project Overview
 
 This project demonstrates how to process an unstructured text document using **LangChain** and **Groq**. The application reads a document about the Eiffel Tower, splits it into smaller chunks using a fixed-size text splitting strategy, extracts important information, and generates a concise summary.
 
-The project uses LangChain Expression Language (LCEL) to build a simple and efficient processing pipeline.
+The project uses LangChain to build a simple pipeline.
 
 ---
 
